@@ -8,4 +8,4 @@ This tag automatically converts all text enclosed within into randomly capitaliz
 
 Just drop `mocking-tag.js` into your header and troll to your heart's content.
 
-Demo: https://jsfiddle.net/fa24d39o
+Demo: https://jsfiddle.net/cwdL7oy2

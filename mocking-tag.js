@@ -1,4 +1,3 @@
-// Creates a <mock>tAg tHaT yoU caN UsE to MoCK WitH</mock>
 ((v) => {
 	let f = (e) => {
 		let [o, n] = [e.innerText, ""];
